@@ -34,7 +34,7 @@ This lab establishes the foundation for future projects involving:
 
 | Hostname | Operating System | Role |
 |----------|------------------|------|
-| DC01 | Windows Server 2022 Standard Evaluation | Domain Controller, DNS Server |
+| DC01 | Windows Server 2022 Standard Evaluation | Domain Controller, DNS Server, DHCP Server |
 | HR-PC01 | Windows 11 Pro | HR Workstation |
 | FIN-PC01 | Windows 11 Pro | Finance Workstation |
 | web01 | Ubuntu Server | Linux Web Server |
@@ -66,16 +66,20 @@ configs/
 - [x] DNS Server installed
 - [x] DC01 promoted to Domain Controller
 - [x] Active Directory forest (`ashag.local`) created
+- [x] DHCP Server installed and authorized
+- [x] DHCP scope created and activated
+- [x] DHCP client connectivity verified
 
 ### Remaining
 
-- [ ] DHCP Server
-- [ ] Organizational Units (OUs)
-- [ ] Users and Groups
-- [ ] Group Policy Objects (GPOs)
-- [ ] Domain Join
-- [ ] File Shares
-- [ ] Linux Server configuration
+- [ ] Join HR-PC01 to the domain
+- [ ] Join FIN-PC01 to the domain
+- [ ] Create Organizational Units (OUs)
+- [ ] Create users and security groups
+- [ ] Configure Group Policy Objects (GPOs)
+- [ ] Configure file shares and NTFS permissions
+- [ ] Configure Ubuntu Server
+- [ ] Final documentation and architecture diagrams
 
 ---
 
