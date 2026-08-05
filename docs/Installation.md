@@ -42,4 +42,6 @@ This document records the installation and initial configuration of the virtual 
 - DC01 provides Active Directory, DNS, and DHCP services for the `ashag.local` domain.
 - DHCP is configured and operational.
 - HR-PC01 successfully received an IP address from the DHCP server.
-- Client computers have not yet joined the Active Directory domain.
+- Joined HR-PC01 to the `ashag.local` domain.
+- Verified domain authentication using the `whoami` command.
+- Verified the computer object was created in Active Directory.

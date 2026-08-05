@@ -69,10 +69,10 @@ configs/
 - [x] DHCP Server installed and authorized
 - [x] DHCP scope created and activated
 - [x] DHCP client connectivity verified
+- [x] Join HR-PC01 to the domain
 
 ### Remaining
 
-- [ ] Join HR-PC01 to the domain
 - [ ] Join FIN-PC01 to the domain
 - [ ] Create Organizational Units (OUs)
 - [ ] Create users and security groups
