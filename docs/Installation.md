@@ -51,3 +51,7 @@ This document records the installation and initial configuration of the virtual 
 - Verified domain authentication on FIN-PC01 using the `whoami` command.
 - Verified the computer object was created in Active Directory.
 - Moved FIN-PC01 into the Workstations Organizational Unit.
+- Created Organizational Units for enterprise organization.
+- Created HR and Finance domain user accounts.
+- Created HR_Users and Finance_Users security groups.
+- Added users to their respective security groups.

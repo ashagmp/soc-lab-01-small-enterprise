@@ -72,10 +72,10 @@ configs/
 - [x] Join HR-PC01 to the domain
 - [x] Join FIN-PC01 to the domain
 - [X] Create Organizational Units (OUs)
+- [x] Create users and security groups
 
 ### Remaining
 
-- [ ] Create users and security groups
 - [ ] Configure Group Policy Objects (GPOs)
 - [ ] Configure file shares and NTFS permissions
 - [ ] Configure Ubuntu Server
