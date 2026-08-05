@@ -70,11 +70,11 @@ configs/
 - [x] DHCP scope created and activated
 - [x] DHCP client connectivity verified
 - [x] Join HR-PC01 to the domain
+- [X] Create Organizational Units (OUs)
 
 ### Remaining
 
 - [ ] Join FIN-PC01 to the domain
-- [ ] Create Organizational Units (OUs)
 - [ ] Create users and security groups
 - [ ] Configure Group Policy Objects (GPOs)
 - [ ] Configure file shares and NTFS permissions

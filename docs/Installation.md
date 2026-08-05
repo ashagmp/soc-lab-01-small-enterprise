@@ -45,3 +45,5 @@ This document records the installation and initial configuration of the virtual 
 - Joined HR-PC01 to the `ashag.local` domain.
 - Verified domain authentication using the `whoami` command.
 - Verified the computer object was created in Active Directory.
+- Created Organizational Units (OUs) for enterprise organization.
+- Moved HR-PC01 into the Workstations OU.
