@@ -73,11 +73,11 @@ configs/
 - [x] Join FIN-PC01 to the domain
 - [X] Create Organizational Units (OUs)
 - [x] Create users and security groups
+- [X] Configure file shares and NTFS permissions
 
 ### Remaining
 
 - [ ] Configure Group Policy Objects (GPOs)
-- [ ] Configure file shares and NTFS permissions
 - [ ] Configure Ubuntu Server
 - [ ] Final documentation and architecture diagrams
 

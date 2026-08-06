@@ -55,3 +55,9 @@ This document records the installation and initial configuration of the virtual 
 - Created HR and Finance domain user accounts.
 - Created HR_Users and Finance_Users security groups.
 - Added users to their respective security groups.
+- Created HR and Finance shared folders.
+- Configured NTFS permissions using Active Directory security groups.
+- Configured SMB share permissions.
+- Verified HR user access to the HR share.
+- Verified Finance user access to the Finance share.
+- Verified users could not access unauthorized departmental shares.
