@@ -29,6 +29,12 @@
 | DNS Server | 192.168.10.10 |
 | Domain Name | ashag.local |
 
+### Linux Server
+
+| Host | IP Address | DNS | Purpose |
+|------|------------|-----|---------|
+| web01 | 192.168.10.20 | 192.168.10.10 | Ubuntu Web Server |
+
 ### Notes
 
 - DC01 uses a static IP because it serves as the Domain Controller, DNS Server, and DHCP Server.

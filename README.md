@@ -69,16 +69,16 @@ configs/
 - [x] DHCP Server installed and authorized
 - [x] DHCP scope created and activated
 - [x] DHCP client connectivity verified
-- [x] Join HR-PC01 to the domain
-- [x] Join FIN-PC01 to the domain
-- [X] Create Organizational Units (OUs)
-- [x] Create users and security groups
-- [X] Configure file shares and NTFS permissions
-- [x] Configure Group Policy Objects (GPOs)
+- [x] HR-PC01 joined to the domain
+- [x] FIN-PC01 joined to the domain
+- [x] Organizational Units (OUs) created
+- [x] Domain users and security groups created
+- [x] File shares and NTFS permissions configured
+- [x] Group Policy Objects (GPOs) configured
+- [X] Configure Ubuntu Server
 
 ### Remaining
 
-- [ ] Configure Ubuntu Server
 - [ ] Final documentation and architecture diagrams
 
 ---

@@ -44,7 +44,13 @@ This document records the installation and configuration of the virtual machines
 - Configured the Default Domain Policy password policy.
 - Configured the Default Domain Policy account lockout policy.
 - Verified Group Policy application on domain-joined workstations.
-
+- Configured a static IP address for the Ubuntu Server (`web01`).
+- Configured DNS to use the domain controller (`192.168.10.10`).
+- Verified network connectivity to the domain controller.
+- Installed and configured the OpenSSH Server.
+- Installed and configured the Apache Web Server.
+- Verified web server access from a Windows client.
+- Ubuntu Server (`web01`) is configured with a static IP address and provides web services for future SOC monitoring labs.
 ## Network
 
 | Host | Internal IP | Role |
@@ -52,6 +58,7 @@ This document records the installation and configuration of the virtual machines
 | DC01 | 192.168.10.10 | Domain Controller / DNS / DHCP |
 | HR-PC01 | DHCP (192.168.10.100+) | Domain Client |
 | FIN-PC01 | DHCP (192.168.10.100+) | Domain Client |
+| web01    | 192.168.10.20          | Ubuntu Web Server|
 
 ## Notes
 
