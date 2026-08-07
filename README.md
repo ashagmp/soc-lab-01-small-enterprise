@@ -76,10 +76,12 @@ configs/
 - [x] File shares and NTFS permissions configured
 - [x] Group Policy Objects (GPOs) configured
 - [X] Configure Ubuntu Server
+- [X] Final documentation and architecture diagrams
 
-### Remaining
+## Project Status
 
-- [ ] Final documentation and architecture diagrams
+**✅ Lab 01 Completed**
+
 
 ---
 
