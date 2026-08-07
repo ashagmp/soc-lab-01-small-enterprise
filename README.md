@@ -74,10 +74,10 @@ configs/
 - [X] Create Organizational Units (OUs)
 - [x] Create users and security groups
 - [X] Configure file shares and NTFS permissions
+- [x] Configure Group Policy Objects (GPOs)
 
 ### Remaining
 
-- [ ] Configure Group Policy Objects (GPOs)
 - [ ] Configure Ubuntu Server
 - [ ] Final documentation and architecture diagrams
 
